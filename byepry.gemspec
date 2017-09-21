@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Scan for and remove instances of byebug or pry in code.}
   spec.description   = %q{When running code in development checks for byebug or binding.pry and asks if they would like to me removed.}
-  spec.homepage      = "github.com/frustratedswede/byepry"
+  spec.homepage      = "https://github.com/frustratedswede/byepry"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
